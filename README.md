@@ -1,8 +1,7 @@
 # EnvChange
 
 
-Replacing the environment vars between the inneractive, ia-staging, ia-dev, ia-qa env.
-
+Replacing the environment vars between the Prod, QA & Staging env with diffrent configuration for each env.
  
 
 1) Copy this 2 files into your home directory:  cred.json , *********** .
