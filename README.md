@@ -20,6 +20,6 @@ Usage:
 ```./setenv prod / staging / qa```
 
 
-![Alt text](screenshot.jpg?raw=true "Title")
+![Screenshot](screenshot.png)
 
 
